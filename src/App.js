@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header"> Rendering the React Page </header>
       <p> welcome to the sample </p>
+      <p> App.js </p>
     </div>
   );
 }
